@@ -34,8 +34,8 @@ Define = "BaseDecorTitle" {
     Focused = "$FONT_TITLE"
   }
   FontColor {
-    Focused = "#cccccc #000000:50"
-    FocusedSelected = "#ffffff #000000:50"
+    Focused = "#cccccc #000000,50"
+    FocusedSelected = "#ffffff #000000,50"
     Unfocused = "#777777"
     UnfocusedSelected = "#777777"
   }
